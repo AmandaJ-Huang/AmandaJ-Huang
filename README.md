@@ -1,5 +1,4 @@
 ## Hi, I'm Amanda Huang!
-I am currently a Student Software Developer at [`Zip Code Wilmington`](https://www.zipcodewilmington.com/), learning full-stack web development, specifically Java, Javascript, Typescript, Angular, CSS, and HTML.
 
 ### Contact Information ▼
 * **Email**: [`amandajoy.hng@gmail.com`](mailto:amandajoy.hng@gmail.com)
